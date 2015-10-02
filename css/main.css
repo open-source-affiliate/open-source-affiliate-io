@@ -1,5 +1,43 @@
 body {
+  background-color: #333333;
+  font-family: 'Quantico', sans-serif;
+}
 
+#container {
+  width: 66%;
+  margin: 0 auto;
+}
+
+h1, h2, h3, p {
+  text-align: center;
+}
+
+h1 {
+  margin-top: 10%;
+  font-size: 60px;
+  color: #D0B490;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+h3 {
+  font-size: 20px;
+  color: #DDDDDD;
+}
+
+p {
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: #ACDF60;
+}
+
+a:hover, a:focus {
+  color: #CCFF90;
 }
 
 #index {
